@@ -28,5 +28,5 @@ I am an Applied Statistics graduate from the Institute of Applied Statistics and
 
 ## 🏆 Achievements
 
-- **IASDS Golden Jubilee Award** — Awarded for achieving the highest CGPA in the B.S. Honours in Applied Statistics graduating batch at IASDS, University of Dhaka.
-- **University of Dhaka Undergraduate Merit Scholarship** — Awarded for outstanding academic performance in the first year of undergraduate studies.
+- **IASDS Golden Jubilee Award** : Awarded for achieving the highest CGPA in the B.S. Honours in Applied Statistics graduating batch at IASDS, University of Dhaka.
+- **University of Dhaka Undergraduate Merit Scholarship** : Awarded for outstanding academic performance in the first year of undergraduate studies.
